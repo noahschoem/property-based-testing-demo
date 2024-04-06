@@ -1,0 +1,8 @@
+[packages]
+hypothesis = "*"
+pytest = "*"
+pytest-cov = "*"
+pytest-mock = "*"
+
+[dev-packages]
+ipython = "*"
